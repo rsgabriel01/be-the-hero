@@ -23,7 +23,7 @@ acesso aos casos e escolhem quais desejam "apadrinhar".
 
 ##### Clone o repositório em sua maquina : 
 ```cli
-  
+  https://github.com/rsgabriel01/semana-omnistack-11.git
 ```
 
 #### 2 - Instale e execute o npm:
