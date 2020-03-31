@@ -15,6 +15,13 @@ acesso aos casos e escolhem quais desejam "apadrinhar".
 ---
 ### Técnologias utilizadas
 
+#### - ReactJs (Back-end).
+#### - ReactJs (Front-end).
+#### - React Native (Mobile).
+#### - Knex (Banco de dados de desenvolvimento).
+#### - Jest (Testes).
+#### - SuperTest (Testes).
+
 ---
 
 ### Executando o projeto localmente:
